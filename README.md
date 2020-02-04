@@ -10,4 +10,4 @@ The topics are then studied and the documents which are most relevant to topic o
 
 ### Install
 
-This project files requires **Python 3** 
+This project files requires **Python 3** , **jupyter**
